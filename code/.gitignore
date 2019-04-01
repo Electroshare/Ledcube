@@ -1,0 +1,7 @@
+# object files
+*.o
+# compiled programm
+generator/generator
+3Dview/3Dview
+# geany project
+*.geany
