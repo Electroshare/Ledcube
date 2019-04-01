@@ -148,7 +148,7 @@ int main(int argc, char** argv)
 
 	// initialize first animation
 	int currentAnim = rand() % animList.size();
-	currentAnim = 3;
+	currentAnim = 2;
 	c = animList[currentAnim]->firstFrame(c);
 	
 	// Animate
